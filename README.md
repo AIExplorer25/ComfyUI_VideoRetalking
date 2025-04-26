@@ -66,6 +66,7 @@ pip install -r requirements.txt
 ```
 
 ## Quick Inference
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/0e1e3098-442e-41cc-b376-16d46843be0a" />
 
 #### Pretrained Models
 Please download our [pre-trained models](https://drive.google.com/drive/folders/18rhjMpxK8LVVxf7PI6XwOidt8Vouv_H0?usp=share_link) and put them in `./checkpoints`.
